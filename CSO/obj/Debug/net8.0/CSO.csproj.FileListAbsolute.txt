@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\CSO\CSO\bin\Debug\net8.0\CSO.exe
+C:\Users\gabri\source\repos\CSO\CSO\bin\Debug\net8.0\CSO.deps.json
+C:\Users\gabri\source\repos\CSO\CSO\bin\Debug\net8.0\CSO.runtimeconfig.json
+C:\Users\gabri\source\repos\CSO\CSO\bin\Debug\net8.0\CSO.dll
+C:\Users\gabri\source\repos\CSO\CSO\bin\Debug\net8.0\CSO.pdb
+C:\Users\gabri\source\repos\CSO\CSO\obj\Debug\net8.0\CSO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\CSO\CSO\obj\Debug\net8.0\CSO.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\CSO\CSO\obj\Debug\net8.0\CSO.AssemblyInfo.cs
+C:\Users\gabri\source\repos\CSO\CSO\obj\Debug\net8.0\CSO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\CSO\CSO\obj\Debug\net8.0\CSO.dll
+C:\Users\gabri\source\repos\CSO\CSO\obj\Debug\net8.0\refint\CSO.dll
+C:\Users\gabri\source\repos\CSO\CSO\obj\Debug\net8.0\CSO.pdb
+C:\Users\gabri\source\repos\CSO\CSO\obj\Debug\net8.0\CSO.genruntimeconfig.cache
+C:\Users\gabri\source\repos\CSO\CSO\obj\Debug\net8.0\ref\CSO.dll
